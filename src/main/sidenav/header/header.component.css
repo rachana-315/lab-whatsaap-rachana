@@ -12,7 +12,8 @@
   flex-basis: 3rem;
 }
 .img{
-  width:100%;l
+  height:100%;
+  border-radius: 50%;
 }
 .menus{
   display: flex;
