@@ -9,6 +9,7 @@ import { SidenavComponent } from './sidenav/sidenav.component';
   styleUrls: ['./main.component.css'],
   imports: [SidenavComponent, ConversationsComponent],
 });
+
 export class MainComponent implements OnInit {
   constructor() {}
 
