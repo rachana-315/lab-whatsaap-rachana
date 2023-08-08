@@ -3,6 +3,7 @@
   justify-content: space-between;
   align-items: center;
   height:3.5rem;
+  background-color: #f0f2f5;
 }
 .menus{
   display: flex;
