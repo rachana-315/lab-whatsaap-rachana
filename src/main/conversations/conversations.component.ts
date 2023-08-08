@@ -2,9 +2,9 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   standalone: true,
-  selector: 'app-chats',
-  templateUrl: './Conversations.component.html',
-  styleUrls: ['./Conversations.component.css'],
+  selector: 'app-conversations',
+  templateUrl: './conversations.component.html',
+  styleUrls: ['./conversations.component.css'],
 })
 export class ConversationsComponent implements OnInit {
   constructor() {}
