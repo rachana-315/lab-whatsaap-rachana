@@ -7,6 +7,10 @@
   padding: 1rem;
   border-bottom: 1px solid #ccc;
 }
+.avatar{
+  height:3rem;
+  flex-basis: 3rem;
+}
 .img{
   width:100%;l
 }
