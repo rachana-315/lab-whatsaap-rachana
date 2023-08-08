@@ -3,5 +3,11 @@
   justify-content: space-between;
   align-items: center;
   height:3.5rem;
-  
+}
+.menus{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-basis: 40%;
+  height:1.6rem;
 }
