@@ -2,11 +2,11 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   standalone: true,
-  selector: 'app-conversations',
-  templateUrl: './conversations.component.html',
-  styleUrls: ['./conversations.component.css'],
+  selector: 'app-chats',
+  templateUrl: './chats.component.html',
+  styleUrls: ['./chats.component.css'],
 })
-export class ConversationsComponent implements OnInit {
+export class ChatsComponent implements OnInit {
   constructor() {}
 
   ngOnInit() {}
