@@ -3,10 +3,10 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   standalone: true,
   selector: 'app-chats',
-  templateUrl: './chats.component.html',
-  styleUrls: ['./chats.component.css'],
+  templateUrl: './Convewrsations.component.html',
+  styleUrls: ['./Convewrsations.component.css'],
 })
-export class ChatsComponent implements OnInit {
+export class ConvewrsationsComponent implements OnInit {
   constructor() {}
 
   ngOnInit() {}
